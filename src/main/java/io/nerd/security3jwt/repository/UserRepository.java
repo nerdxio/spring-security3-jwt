@@ -1,5 +1,6 @@
-package io.nerd.security3jwt.user;
+package io.nerd.security3jwt.repository;
 
+import io.nerd.security3jwt.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

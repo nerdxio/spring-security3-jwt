@@ -1,9 +1,9 @@
 package io.nerd.security3jwt.auth;
 
 import io.nerd.security3jwt.config.JwtService;
-import io.nerd.security3jwt.user.Role;
-import io.nerd.security3jwt.user.User;
-import io.nerd.security3jwt.user.UserRepository;
+import io.nerd.security3jwt.model.Role;
+import io.nerd.security3jwt.model.User;
+import io.nerd.security3jwt.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

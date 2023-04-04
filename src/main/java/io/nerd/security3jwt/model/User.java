@@ -1,4 +1,4 @@
-package io.nerd.security3jwt.user;
+package io.nerd.security3jwt.model;
 
 
 import jakarta.persistence.*;

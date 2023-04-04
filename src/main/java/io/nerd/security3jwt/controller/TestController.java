@@ -1,4 +1,4 @@
-package io.nerd.security3jwt.test;
+package io.nerd.security3jwt.controller;
 
 
 import org.springframework.http.ResponseEntity;

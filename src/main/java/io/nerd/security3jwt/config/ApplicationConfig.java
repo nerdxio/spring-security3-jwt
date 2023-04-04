@@ -1,6 +1,6 @@
 package io.nerd.security3jwt.config;
 
-import io.nerd.security3jwt.user.UserRepository;
+import io.nerd.security3jwt.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
